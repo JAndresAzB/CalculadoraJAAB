@@ -3,6 +3,7 @@ Algoritmo FuncionesMatematicas
 	Definir num, numabs, numabs2, expo, numra, numc como real;
 	Definir seguir, func, cal Como Entero;
 	Repetir
+		Escribir "CODIGO PARA GITHUB";
 		Escribir "";
 		Escribir "------------------------CALCULADORA JAAB-----------------------";
 		Escribir "";
